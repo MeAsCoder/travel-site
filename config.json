@@ -1,8 +1,8 @@
 {
   "usd_to_kes_rate": 60.0,
-  "payhero_channel_id": 5409,
-  "basic_auth_token": "Basic loiykkjjhgd1VJWlBBVHBjVFdiS3pmbUJROGQ6bkFoQjd1d1ByRWF6bXE2MjVaRzh6elojTJEM0N1UGNUVkdmUFFRYndFeg==",
-  "payhero_account_id": "4094",
+  "payhero_channel_id": 5403,
+  "basic_auth_token": "Basic dEZPQlJuaXJadnR0NVlDc0diTUI6dFJ2UWtTME5jTlYwa3JqekZ5elBYWm5nUTF4SjFLU0RHUWxLa1hrUQ==",
+  "payhero_account_id": "4494",
   "till_number": 3261857,
   "till_name": "REMOTE-TASK SERVICES",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/remotill.png"
