@@ -1,9 +1,9 @@
 {
   "till_amount": 100.0,
-  "survey_activation_amount": 150.0,
-  "payhero_channel_id": 5403,
-  "basic_auth_token": "Basic dEZPQlJuaXJadnR0NVlDc0diTUI6dFJ2UWtTME5jTlYwa3JqekZ5elBYWm5nUTF4SjFLU0RHUWxLa1hrUQ==",
-  "payhero_account_id": "4494",
+  "survey_activation_amount": 100.0,
+  "payhero_channel_id": 7838,
+  "basic_auth_token": "Basic QUtpWkZZeFcwVW96SnQyNUtZNnQ6UGxma2pWdG9lb1RkWnFKZlg4d3o0U2JleXRiU3Rka1NwNEZEcUtZVw==",
+  "payhero_account_id": "5237",
   "till_number": 3261857,
   "till_name": "REMOTE SERVICES",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/remotill.png"
