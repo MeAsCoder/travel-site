@@ -1,8 +1,8 @@
 {
   "till_amount": 100.0,
   "survey_activation_amount": 100.0,
-  "payhero_channel_id": 5403,
-  "basic_auth_token": "Basic ZjZSQmFZaDRmQ3BwdEk1SFpPamQ6SkNpdGthNmgybkFITDdEY1ZPd2ZIc1lSNWF2blNEbEU1elIzcVJvSA==",
+  "payhero_channel_id": 7840,
+  "basic_auth_token": "Basic TG9TakxycWt3aFpxcEZvOElnSVg6TzJUMEZOM3o1VFVac2xJOVVJNExFQllCS2IxcERmM0plcXZiaVFRaA==",
   "payhero_account_id": "4494",
   "till_number": 5588170,
   "till_name": "AMPERE AVENUE VENTURES",
