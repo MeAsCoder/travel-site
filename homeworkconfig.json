@@ -1,9 +1,9 @@
 {
   "till_amount": 100.0,
   "survey_activation_amount": 150.0,
-  "payhero_channel_id": 7838,
-  "basic_auth_token": "Basic QURoUjN2T2p6aXRJUUZCR0FZc286eXRGVWR2WlBkVHBGUmZHM0d1RVJLNVBlejVHTmpTVVRLWmNrWmRYNw==",
-  "payhero_account_id": "5237",
+  "payhero_channel_id": 5405,
+  "basic_auth_token": "Basic Qm5OenhpNm1yNzl6V2pmVUdhamc6RUNKRURPcnZyaGx2M1RuQnc5aUZnTXdBMExyaW81NThxUWk2bGJQMg==",
+  "payhero_account_id": "4494",
   "till_number": 5588170,
   "till_name": "AMPERE AVENUE VENTURES",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/ampere_avenue.png"
