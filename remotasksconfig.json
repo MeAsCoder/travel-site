@@ -1,9 +1,9 @@
 {
   "usd_to_kes_rate": 120.0,
-  "payhero_channel_id": 7840,
+  "payhero_channel_id": 5405,
   "basic_auth_token": "Basic clFtSlU2aXhVVVlmRFlvem44a3E6cDNVamFjTVBxZGMwSEttb3lBTlBHQlQ2ZWFESDA3eUhVYUlKN1hvTQ==",
   "payhero_account_id": "4494",
-  "till_number": 5588170,
-  "till_name": "AMPERE AVENUE VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/ampere_avenue.png"
+  "till_number": 5432780,
+  "till_name": "PREMIER DIGITAL VENTURES",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp"
 }
