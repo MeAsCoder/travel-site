@@ -1,8 +1,8 @@
 {
   "usd_to_kes_rate": 66.0,
-  "payhero_channel_id": 10757,
-  "basic_auth_token": "Basic TXhsV2tyOUROaVpLaW9WR3FSR0k6SjJjVmdkWlR1U3JITk9hRXczRE5mdGhMcjEwdTUyRmhocEpUVkpDRw==",
-  "payhero_account_id": "8488",
+  "payhero_channel_id": 10766,
+  "basic_auth_token": "Basic TWVUTVp0M0kxRndCVWRQSHUzS2g6S1BsZXM0cUpYeXlEUDNydE93YTFSTVpjZmVrZHVvdlR5ZEpOVmN3Tg==",
+  "payhero_account_id": "8218",
   "till_number": 6916189,
   "till_name": "TAFITI MASTERS",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/tafiti%20masters.jpeg"
