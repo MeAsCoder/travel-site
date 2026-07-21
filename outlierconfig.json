@@ -1,8 +1,8 @@
 {
   "usd_to_kes_rate": 66.0,
-  "payhero_channel_id": 7948,
-  "basic_auth_token": "Basic a3piblFDZEwyNGJWWnRaakd6eWE6dlhCRE5Rb0F3S1RXUXZJQW9kYVRVU25lVnk5eUtxUFhVODJyUUU2Vw==",
-  "payhero_account_id": "8218",
+  "payhero_channel_id": 10757,
+  "basic_auth_token": "Basic TXhsV2tyOUROaVpLaW9WR3FSR0k6SjJjVmdkWlR1U3JITk9hRXczRE5mdGhMcjEwdTUyRmhocEpUVkpDRw==",
+  "payhero_account_id": "8488",
   "till_number": 5793257,
   "till_name": "SURVTEK MASTERS",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/survtek_masters.webp"
