@@ -1,10 +1,9 @@
 {
-  "till_amount": 100.0,
-  "survey_activation_amount": 150.0,
-  "payhero_channel_id": 5405,
-  "basic_auth_token": "Basic Qm5OenhpNm1yNzl6V2pmVUdhamc6RUNKRURPcnZyaGx2M1RuQnc5aUZnTXdBMExyaW81NThxUWk2bGJQMg==",
-  "payhero_account_id": "4494",
-  "till_number": 5432780,
-  "till_name": "PREMIER DIGITAL VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp"
-}
+  "usd_to_kes_rate": 66.0,
+  "payhero_channel_id": 10766,
+  "basic_auth_token": "Basic TWVUTVp0M0kxRndCVWRQSHUzS2g6S1BsZXM0cUpYeXlEUDNydE93YTFSTVpjZmVrZHVvdlR5ZEpOVmN3Tg==",
+  "payhero_account_id": "8218",
+  "till_number": 6916189,
+  "till_name": "TAFITI MASTERS",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/tafiti%20masters.jpeg"
+}																							
