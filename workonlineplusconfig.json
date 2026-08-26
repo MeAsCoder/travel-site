@@ -1,10 +1,22 @@
 {
   "till_amount": 100.0,
   "survey_activation_amount": 150.0,
+  
   "payhero_channel_id": 5405,
   "basic_auth_token": "Basic MHNhb3lVNDhUZFVwRUlHODA0Ync6MVF3dGRQektDMFo1Rmg2STJlR1RvbVFtSHNJQVZmMFk5YmZJeEY0eQ==",
   "payhero_account_id": "4494",
   "till_number": 5432780,
   "till_name": "PREMIER DIGITAL VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp"
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp",
+  
+  "paylor_enabled": true,
+  "paylor_api_key": "pk_E794BscrUjKe4bi2_WIrNH4Bn_MY4aFQ",
+  "paylor_channel_id": "PAYL-39UQFZ",
+  "paylor_webhook_secret": "59c376f859a3408043da703ee7f81dec78f102ebe7a4d6c2156b1ec24ea90444",
+  "paylor_webhook_url": "",
+  "paylor_callback_url": "",
+  "paylor_till_number": 5432780,
+  "paylor_till_name": "PREMIER DIGITAL VENTURES",
+  "paylor_till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp",
+  "paylor_transaction_fee": 0.0
 }
