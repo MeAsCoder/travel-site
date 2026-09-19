@@ -1,9 +1,10 @@
 {
-  "usd_to_kes_rate": 120.0,
-  "payhero_channel_id": 5405,
-  "basic_auth_token": "Basic clFtSlU2aXhVVVlmRFlvem44a3E6cDNVamFjTVBxZGMwSEttb3lBTlBHQlQ2ZWFESDA3eUhVYUlKN1hvTQ==",
+  "till_amount": 100.0,
+  "survey_activation_amount": 150.0,
+  "payhero_channel_id": 12628,
+  "basic_auth_token": "Basic Qm5OenhpNm1yNzl6V2pmVUdhamc6RUNKRURPcnZyaGx2M1RuQnc5aUZnTXdBMExyaW81NThxUWk2bGJQMg==",
   "payhero_account_id": "4494",
-  "till_number": 5432780,
-  "till_name": "PREMIER DIGITAL VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/premier_ventures.webp"
+  "till_number": 5828171,
+  "till_name": "APEX DIGITAL VENTURES",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/apex_digital_ventures_till.jpg"
 }
