@@ -5,8 +5,8 @@
   "payhero_channel_id": 12628,
   "basic_auth_token": "Basic Qm5OenhpNm1yNzl6V2pmVUdhamc6RUNKRURPcnZyaGx2M1RuQnc5aUZnTXdBMExyaW81NThxUWk2bGJQMg==",
   "payhero_account_id": "4494",
-  "till_number": 5828171,
-  "till_name": "APEX DIGITAL VENTURES",
+  "till_number": 1749735,
+  "till_name": "NEXUS DIGITAL VENTURES",
   "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/apex_digital_ventures_till.jpg",
   
   "paylor_enabled": true,
@@ -15,8 +15,8 @@
   "paylor_webhook_secret": "59c376f859a3408043da703ee7f81dec78f102ebe7a4d6c2156b1ec24ea90444",
   "paylor_webhook_url": "",
   "paylor_callback_url": "",
-  "paylor_till_number": 5828171,
-  "paylor_till_name": "APEX DIGITAL VENTURES",
+  "paylor_till_number": 1749735,
+  "paylor_till_name": "NEXUS DIGITAL VENTURES",
   "paylor_till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/apex_digital_ventures_till.jpg",
   "paylor_transaction_fee": 0.0
 }
