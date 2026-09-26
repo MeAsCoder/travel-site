@@ -7,7 +7,7 @@
   "payhero_account_id": "4494",
   "till_number": 1749735,
   "till_name": "NEXUS DIGITAL VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/apex_digital_ventures_till.jpg",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/nexus_digital_ventures.png",
   
   "paylor_enabled": true,
   "paylor_api_key": "pk_E794BscrUjKe4bi2_WIrNH4Bn_MY4aFQ",
@@ -17,6 +17,6 @@
   "paylor_callback_url": "",
   "paylor_till_number": 1749735,
   "paylor_till_name": "NEXUS DIGITAL VENTURES",
-  "paylor_till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/apex_digital_ventures_till.jpg",
+  "paylor_till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/nexus_digital_ventures.png",
   "paylor_transaction_fee": 0.0
 }
