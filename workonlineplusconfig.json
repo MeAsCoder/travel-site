@@ -5,9 +5,9 @@
   "payhero_channel_id": 12628,
   "basic_auth_token": "Basic Qm5OenhpNm1yNzl6V2pmVUdhamc6RUNKRURPcnZyaGx2M1RuQnc5aUZnTXdBMExyaW81NThxUWk2bGJQMg==",
   "payhero_account_id": "4494",
-  "till_number": 1749735,
-  "till_name": "NEXUS DIGITAL VENTURES",
-  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/nexus_digital_ventures.png",
+  "till_number": 1762964,
+  "till_name": "DIGITAL HUSTLE HUB",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/digital_hustle_hub_till.png",
   
   "paylor_enabled": true,
   "paylor_api_key": "pk_E794BscrUjKe4bi2_WIrNH4Bn_MY4aFQ",
@@ -15,8 +15,8 @@
   "paylor_webhook_secret": "59c376f859a3408043da703ee7f81dec78f102ebe7a4d6c2156b1ec24ea90444",
   "paylor_webhook_url": "",
   "paylor_callback_url": "",
-  "paylor_till_number": 1749735,
-  "paylor_till_name": "NEXUS DIGITAL VENTURES",
-  "paylor_till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/nexus_digital_ventures.png",
+   "till_number": 1762964,
+  "till_name": "DIGITAL HUSTLE HUB",
+  "till_image_url": "https://raw.githubusercontent.com/MeAsCoder/travel-site/master/digital_hustle_hub_till.png",
   "paylor_transaction_fee": 0.0
 }
